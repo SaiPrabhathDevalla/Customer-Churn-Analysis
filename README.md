@@ -1,106 +1,107 @@
-📉 Customer Churn Analysis – Power BI Project
-📌 Project Overview
+**📉 Customer Churn Analysis – Power BI Project**
 
-The Customer Churn Analysis project focuses on identifying patterns and factors that influence customers leaving a service. Using Power BI, this project analyzes customer behavior, service usage, billing, and contract details to help businesses reduce churn and improve customer retention.
+**📌 Project Overview**
 
-The dashboard converts raw customer data into interactive and actionable insights that support business decision-making.
+* The Customer Churn Analysis project focuses on identifying patterns and factors that influence customers leaving a service. Using Power BI, this project analyzes customer behavior, service usage, billing, and contract details to help businesses reduce churn and improve customer retention.
 
-🎯 Objectives
+* The dashboard converts raw customer data into interactive and actionable insights that support business decision-making.
 
-Analyze customer churn rate and trends
+**🎯 Objectives**
 
-Identify key factors contributing to customer churn
+* Analyze customer churn rate and trends
 
-Compare churn behavior across different customer segments
+* Identify key factors contributing to customer churn
 
-Understand the impact of pricing, contracts, and services on churn
+* Compare churn behavior across different customer segments
 
-Build an interactive Power BI dashboard for decision-makers
+* Understand the impact of pricing, contracts, and services on churn
 
-🏢 Business Problem
+* Build an interactive Power BI dashboard for decision-makers
 
-Customer retention is critical for business growth, as acquiring new customers is more expensive than retaining existing ones. Many organizations struggle to understand why customers churn due to the lack of integrated analysis across billing, contracts, and service usage.
+**🏢 Business Problem**
 
-This project addresses the problem by analyzing churn data to identify high-risk customers, enabling businesses to take proactive retention actions.
+* Customer retention is critical for business growth, as acquiring new customers is more expensive than retaining existing ones. Many organizations struggle to understand why customers churn due to the lack of integrated analysis across billing, contracts, and service usage.
 
-📂 Dataset Information
+* This project addresses the problem by analyzing churn data to identify high-risk customers, enabling businesses to take proactive retention actions.
 
-The dataset contains customer-level information commonly used in churn analysis.
+**📂 Dataset Information**
 
-Key Fields Include:
+* The dataset contains customer-level information commonly used in churn analysis.
 
-Customer ID
+* Key Fields Include:
 
-Gender
+* Customer ID
 
-Senior Citizen
+* Gender
 
-Contract Type
+* Senior Citizen
 
-Internet Service
+* Contract Type
 
-Support Services (Tech support, online security, etc.)
+* Internet Service
 
-Monthly Charges
+* Support Services (Tech support, online security, etc.)
 
-Total Charges
+* Monthly Charges
 
-Tenure
+* Total Charges
 
-Churn (Yes / No)
+* Tenure
 
-🛠️ Tools & Technologies Used
+* Churn (Yes / No)
 
-Power BI – Data modeling, DAX calculations, and visualization
+**🛠️ Tools & Technologies Used**
 
-Power Query – Data cleaning and transformation
+* Power BI – Data modeling, DAX calculations, and visualization
 
-DAX – Measures for churn rate, retention rate, and KPIs
+* Power Query – Data cleaning and transformation
 
-Excel / CSV – Source data
+* DAX – Measures for churn rate, retention rate, and KPIs
 
-GitHub – Project hosting and documentation
+* Excel / CSV – Source data
 
-📊 Key KPIs Created
+* GitHub – Project hosting and documentation
 
-Total Customers
+**📊 Key KPIs Created**
 
-Churned Customers
+* Total Customers
 
-Churn Rate (%)
+* Churned Customers
 
-Retained Customers
+* Churn Rate (%)
 
-Average Monthly Charges
+* Retained Customers
 
-Customer Lifetime (Tenure)
+* Average Monthly Charges
 
-📈 Dashboard Highlights
+* Customer Lifetime (Tenure)
 
-Overall churn rate overview
+**📈 Dashboard Highlights**
 
-Churn by contract type
+* Overall churn rate overview
 
-Churn by internet service
+* Churn by contract type
 
-Monthly charges vs churn
+* Churn by internet service
 
-Tenure-based churn analysis
+* Monthly charges vs churn
 
-Interactive slicers for demographics and services
+* Tenure-based churn analysis
 
-🔍 Key Insights
+* Interactive slicers for demographics and services
 
-Customers with month-to-month contracts have the highest churn rate
+**🔍 Key Insights**
 
-Higher monthly charges increase the likelihood of churn
+* Customers with month-to-month contracts have the highest churn rate
 
-Customers without support services churn more frequently
+* Higher monthly charges increase the likelihood of churn
 
-Longer-tenure customers are more likely to stay
+* Customers without support services churn more frequently
 
-Fiber optic users show higher churn compared to other internet services
+* Longer-tenure customers are more likely to stay
 
-✅ Conclusion
+* Fiber optic users show higher churn compared to other internet services
 
-The Customer Churn Analysis Dashboard provides a clear understanding of churn behavior and its drivers. By identifying high-risk segments, businesses can take data-driven actions such as targeted offers, improved support, and contract optimization to reduce churn.
+**✅ Conclusion**
+
+* The Customer Churn Analysis Dashboard provides a clear understanding of churn behavior and its drivers. By identifying high-risk segments, businesses can take data-driven actions such as targeted offers, improved support, and contract optimization to reduce churn.
